@@ -1,0 +1,1 @@
+{"version":3,"file":"template-manager.component.js","sourceRoot":"","sources":["template-manager.component.ts"],"names":[],"mappings":";;;;;;;;AAAA,sCAA0C;AAO1C,IAAa,wBAAwB;IAArC;IAAuC,CAAC;IAAD,+BAAC;AAAD,CAAC,AAAxC,IAAwC;AAA3B,wBAAwB;IALpC,gBAAS,CAAC;QACP,QAAQ,EAAE,MAAM,CAAC,EAAE;QACnB,QAAQ,EAAE,iBAAiB;QAC3B,QAAQ,EAAE,2BAA2B;KACxC,CAAC;GACW,wBAAwB,CAAG;AAA3B,4DAAwB"}
